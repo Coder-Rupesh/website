@@ -1,0 +1,76 @@
+
+body 
+{
+	background:url(dn.jpg)no-repeat;
+	background-size: cover;
+	font-family: Arial;
+	color: white;
+	
+}
+.log-box
+{
+	width: 300px;
+	height:400px;
+	background-color: rgba(0,0,0,0.5);
+	margin:0 auto;
+	margin-top: 100px;
+	padding-top:10px;
+	padding-left:50px;
+	border-radius: 15px;
+	-webkit-border-radius:15px;
+	-o-border-radius:15px;
+	-moz-border-radius:15px;
+	color:white;
+	font-weight: bolder;
+	box-shadow: inset -4px -4px rgba(0,0,0,0.5);
+	font-size:18px;
+}
+.ursimg
+{
+	margin-top: 80px;
+	width: 100px;
+	height: 100px;
+	border-radius:50%;
+	position: absolute;
+	top: -50px;
+	left:calc(50% - 50px)
+
+}
+.log-box input[type="text"]
+{
+	width:200px;
+	height:35px;
+	border:0;
+	border-radius: 5px;
+	-webkit-border-radius:5px;
+	-o-border-radius:5px;
+	-moz-border-radius:5px;
+	padding-left:5px;
+}
+.log-box input[type="password"]
+{
+	width:200px;
+	height:35px;
+	border:0;
+	border-radius: 5px;
+	-webkit-border-radius:5px;
+	-o-border-radius:5px;
+	-moz-border-radius:5px;
+	padding-left:5px;
+
+}
+.log-box input[type="Submit"]
+{
+	width: 100px;
+	height: 35px;
+	border:0;
+	border-radius: 5px;
+	background-color: skyblue;
+	font-weight: bolder;
+	cursor:pointer;
+}
+
+.log-box a
+{
+	padding:10px;
+}

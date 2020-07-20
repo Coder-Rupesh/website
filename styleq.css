@@ -1,0 +1,39 @@
+*{
+	margin:0px;
+	padding:0px;
+
+}
+body
+{
+	margin:0px;
+	padding:0px;
+	background-color: #F9DCE7;
+}
+form
+{
+
+	margin-top: 0px;
+	margin-left: 30%;
+	padding-left: 50px;
+	width:500px;
+	height:450%;
+	background-color: #8EF7BE;
+}
+form input[type="radio"]
+{
+	margin:5px;
+	padding:10px;
+	margin-left:30px;
+}
+form input[type="button"]
+{
+	margin-left: 20px;
+	margin:20px;
+	width: 100px;
+	height: 35px;
+	border:0;
+	border-radius: 5px;
+	background-color: white;
+	font-weight: bolder;
+	cursor:pointer;
+}

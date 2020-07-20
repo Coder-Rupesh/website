@@ -1,0 +1,109 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+body
+{
+	background:url('dn.jpg') no-repeat;
+	background-size: cover;
+	color: white;
+	font-family:Arial;
+	margin: 0px;
+	padding:10px;
+	padding-left: 500px;
+}
+.sign_UP
+{
+	width:  250px;
+	height: 550px;
+	background-color: rgba(0,0,0,0.5);
+	margin-top: 0px;
+	padding-top:10px;
+	padding-left:40px;
+	border-radius: 15px;
+	-webkit-border-radius:15px;
+	-o-border-radius:15px;
+	-moz-border-radius:15px;
+	color: blue-gray;
+	/*font-weight: bolder;*/
+	box-shadow: inset -4px -4px rgba(0,0,0,0.5);
+	font-size:18px;
+}
+.sign_Up input[type="text"]
+{
+	width:200px;
+	height:35px;
+	border:0;
+	border-radius: 5px;
+	-webkit-border-radius:5px;
+	-o-border-radius:5px;
+	-moz-border-radius:5px;
+	padding-left:5px;
+}
+.sign_up input[type="Email"]
+{
+	width:200px;
+	height:35px;
+	border:0;
+	border-radius: 5px;
+	-webkit-border-radius:5px;
+	-o-border-radius:5px;
+	-moz-border-radius:5px;
+	padding-left:5px;
+}
+.Sign_Up input[type="mobile"]
+{
+	width:200px;
+	height:35px;
+	border:0;
+	border-radius: 5px;
+	-webkit-border-radius:5px;
+	-o-border-radius:5px;
+	-moz-border-radius:5px;
+	padding-left:5px;
+}
+.Sign_Up input[type="password"]
+{
+	width:200px;
+	height:35px;
+	border:0;
+	border-radius: 5px;
+	-webkit-border-radius:5px;
+	-o-border-radius:5px;
+	-moz-border-radius:5px;
+	padding-left:5px;
+}
+.Sign_Up input[type="ConPwd"]
+{
+	width:200px;
+	height:35px;
+	border:0;
+	border-radius: 5px;
+	-webkit-border-radius:5px;
+	-o-border-radius:5px;
+	-moz-border-radius:5px;
+	padding-left:5px;
+}
+.Sign_Up input[type="SignUp"]
+{
+	width:70px;
+	height:30px;
+	border:0;
+	border-radius: 10px;
+	-webkit-border-radius:5px;
+	-o-border-radius:5px;
+	-moz-border-radius:5px;
+	padding-left:10px;
+	background-color: lightgreen;
+	cursor:pointer;
+	font-weight: bolder;
+}
+.sign_Up a
+{
+	color: red;
+}
+
+
+
+
+
